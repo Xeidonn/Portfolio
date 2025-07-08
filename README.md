@@ -62,13 +62,14 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
    Alternatively, you can use any local server setup (e.g., XAMPP, MAMP, or Python's HTTP server) to run the website locally.
 
 ## Screenshots
-![Portfolio Home Page](https://github.com/user-attachments/assets/d4243506-893a-4848-b289-6173f908ec08)
-![Portfolio About Page](https://github.com/user-attachments/assets/18219017-2912-4fef-bbb5-0db7e293c512)
-![Portfolio Skills Page](https://github.com/user-attachments/assets/3a0f6aa0-42b4-4a4a-9f7a-1b6e01cd5810)
-![Portfolio Page](https://github.com/user-attachments/assets/63fa0f40-f4ba-4887-8b83-55468d6a9496)
-![Portfolio Project Page](https://github.com/user-attachments/assets/a715e204-c454-4d61-b195-0effbc48f36e)
-![Portfolio Services Page](https://github.com/user-attachments/assets/3b2e5259-a874-40b7-aa8a-3cfb52882312)
-![Portfolio Contact Page](https://github.com/user-attachments/assets/03167bed-b81c-4ebc-8021-e1f5feab02c8)
+![image](https://github.com/user-attachments/assets/81664e7f-3e7d-4a8d-8a3d-3a2db1822db9)
+![image](https://github.com/user-attachments/assets/e2fa6a15-57e9-483d-80d6-a666ac992327)
+![image](https://github.com/user-attachments/assets/b193c75c-bf65-4928-a13a-c691a0d2022d)
+![image](https://github.com/user-attachments/assets/d7fa6c86-52ec-49c3-9714-5229efc58b78)
+![image](https://github.com/user-attachments/assets/52c8f41c-8861-4c95-a820-44893e465096)
+![image](https://github.com/user-attachments/assets/1da6bca9-83ac-4810-8d5e-b7dc5041ddf8)
+![image](https://github.com/user-attachments/assets/13ff1d81-cca7-461e-9828-8f4e650c4216)
+
 
 
 ## Contact
