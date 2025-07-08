@@ -28,39 +28,6 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
 - **Typed.js**: Adds typing animation effects to text content on the homepage.
 - **PHP (for contact form handling)**: Used for handling the form submissions in the contact section.
   
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone git@github.com:Xeidonn/Portfolio.git
-``
-
-2. **Navigate to the project directory**:
-
-   ```bash
-   cd Portfolio
-   ```
-
-3. **Open the `index.html` file in your browser**:
-
-   * On macOS:
-
-     ```bash
-     open index.html
-     ```
-   * On Windows:
-
-     ```bash
-     start index.html
-     ```
-   * On Linux:
-
-     ```bash
-     xdg-open index.html
-     ```
-
-   Alternatively, you can use any local server setup (e.g., XAMPP, MAMP, or Python's HTTP server) to run the website locally.
-
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/81664e7f-3e7d-4a8d-8a3d-3a2db1822db9)
 ![image](https://github.com/user-attachments/assets/e2fa6a15-57e9-483d-80d6-a666ac992327)
@@ -69,8 +36,6 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
 ![image](https://github.com/user-attachments/assets/52c8f41c-8861-4c95-a820-44893e465096)
 ![image](https://github.com/user-attachments/assets/1da6bca9-83ac-4810-8d5e-b7dc5041ddf8)
 ![image](https://github.com/user-attachments/assets/13ff1d81-cca7-461e-9828-8f4e650c4216)
-
-
 
 ## Contact
 
