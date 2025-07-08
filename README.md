@@ -5,7 +5,6 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
 ## Table of Contents
 
 - [About](#about)
-- [Skills](#skills)
 - [Portfolio](#portfolio)
 - [Services](#services)
 - [Contact](#contact)
