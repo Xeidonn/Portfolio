@@ -62,6 +62,13 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
    Alternatively, you can use any local server setup (e.g., XAMPP, MAMP, or Python's HTTP server) to run the website locally.
 
 ## Screenshots
+![Portfolio Home Page](https://github.com/user-attachments/assets/d4243506-893a-4848-b289-6173f908ec08)
+![Portfolio About Page](https://github.com/user-attachments/assets/18219017-2912-4fef-bbb5-0db7e293c512)
+![Portfolio Skills Page](https://github.com/user-attachments/assets/3a0f6aa0-42b4-4a4a-9f7a-1b6e01cd5810)
+![Portfolio Page](https://github.com/user-attachments/assets/63fa0f40-f4ba-4887-8b83-55468d6a9496)
+![Portfolio Project Page](https://github.com/user-attachments/assets/a715e204-c454-4d61-b195-0effbc48f36e)
+![Portfolio Services Page](https://github.com/user-attachments/assets/3b2e5259-a874-40b7-aa8a-3cfb52882312)
+![Portfolio Contact Page](https://github.com/user-attachments/assets/03167bed-b81c-4ebc-8021-e1f5feab02c8)
 
 
 ## Contact
