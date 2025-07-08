@@ -34,7 +34,7 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/portfolio-website.git
-````
+``
 
 2. **Navigate to the project directory**:
 
@@ -64,22 +64,8 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
 
 ## Screenshots
 
-![Homepage](assets/img/hero-bg.jpg)
-
-## Contributing
-
-Feel free to open an issue or submit a pull request if you find any bugs or have suggestions for improvement.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 * **LinkedIn**: [Myles Ramirez](https://www.linkedin.com/in/myles-ramirez-6b29a632b/)
 * **Email**: [myles.ramirez@example.com](mailto:myles.ramirez@example.com)
-
-```
-
-This README provides a comprehensive overview of your portfolio website project, including details on the website's features, technologies used, and instructions for installation and contribution. Let me know if you'd like to add or change anything!
-```
