@@ -32,7 +32,7 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/Xeidonn/portfolio-website.git
 ``
 
 2. **Navigate to the project directory**:
@@ -67,4 +67,4 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
 ## Contact
 
 * **LinkedIn**: [Myles Ramirez](https://www.linkedin.com/in/myles-ramirez-6b29a632b/)
-* **Email**: [myles.ramirez@example.com](mailto:myles.ramirez@example.com)
+* **Email**: [mylesramirez0323@gmail.com(mailto:mylesramirez0323@gmail.com)
