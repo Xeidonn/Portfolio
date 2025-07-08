@@ -32,13 +32,13 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Xeidonn/portfolio-website.git
+   git clone git@github.com:Xeidonn/Portfolio.git
 ``
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd portfolio-website
+   cd Portfolio
    ```
 
 3. **Open the `index.html` file in your browser**:
