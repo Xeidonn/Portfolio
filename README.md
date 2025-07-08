@@ -40,4 +40,4 @@ This repository contains the portfolio website for Myles Ramirez, a third-year I
 ## Contact
 
 * **LinkedIn**: [Myles Ramirez](https://www.linkedin.com/in/myles-ramirez-6b29a632b/)
-* **Email**: [mylesramirez0323@gmail.com(mailto:mylesramirez0323@gmail.com)
+* **Email**: [mylesramirez0323@gmail.com(mailto:mylesramirez0323@gmail.com)]
